@@ -1,7 +1,6 @@
 import '@/css/tailwind.css'
 import '@/css/prism.css'
 import '@/css/homepage.css'
-import '@/css/admin.css'
 import 'katex/dist/katex.min.css'
 
 import { ThemeProvider } from 'next-themes'
